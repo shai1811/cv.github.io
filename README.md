@@ -1,2 +1,2 @@
-http://vc.github.io
+http://cv.github.io
 # cv.github.io
